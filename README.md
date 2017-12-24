@@ -2,6 +2,9 @@
 
 kubernetes 相关 images 同步
 
+#2017.12.24
+	将kube的4个组件版本升级到1.9.0
+	
 #2017.12.23
 	删除无关的目录
 	新增目录kube-aggregator-amd64
