@@ -2,6 +2,10 @@
 
 kubernetes 相关 images 同步
 
+# 2018.1.2017
+
+* 新增监控组件heapster v1.5.0,包括两个目录:heapster-amd64和addon-resizer(addon-resizer:1.8.1)
+
 # 2017.12.24
 * 将kube的4个组件版本升级到1.9.0
 * 将本文采用markdown格式书写
